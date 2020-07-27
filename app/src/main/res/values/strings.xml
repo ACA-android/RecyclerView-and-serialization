@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecyclerView2</string>
+    <string name="minute">%d min</string>
+    <string name="movie_title">%1$s by %2$s</string>
+</resources>
